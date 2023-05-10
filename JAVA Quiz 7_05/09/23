@@ -135,7 +135,7 @@ public class Quiz783 {
     }
 
 iv. Create JAVA class JAVAQuiz with main method and take input for studentName, studentEmail, quizNumber using scanner class and print these.
-
+>Ans: https://github.com/mazharulboni/JAVA_Quiz_7/blob/main/JAVAQuiz.png
 
 
 v. Write a simple JAVA program to print the “I am JAVA Expert” message. Keeping in mind stages of JAVA Life Cycle draw a flow chart to show journey of your program.
